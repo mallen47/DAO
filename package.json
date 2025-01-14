@@ -1,5 +1,5 @@
 {
-  "name": "dao",
+  "name": "DAO",
   "version": "1.0.0",
   "description": "",
   "dependencies": {
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "author": "gregory@dappuniversity.com",
+  "author": "allen.matt@gmail.com",
   "license": "ISC",
   "eslintConfig": {
     "extends": [
